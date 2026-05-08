@@ -1,8 +1,8 @@
 1. OVER VIEW
-Overview
+Over view
 This dataset requires polygon segmentation  annotations for three object classes:
   car      (id=1) RED
-  biulding (id=2) GREEN
+  building (id=2) GREEN
   animal   (id=3) BLUE
 All annotations must follow the rules below. Consistency and accuracy are essential.
 
@@ -11,8 +11,10 @@ Class	ID	Description
 car	 1	Sedans (saloon), station wagons (wagon), SUVs, and small pickup trucks.
 building 2      houses residentals homes, duplex exceptions;skycrapers.    	
 animal	 3	Any animal figure.
-Important Exclusions for “car”:
-
+Important Exclusions for “car”:Do NOT label as car:
+- Vans and buses
+- Large trucks
+- Motorcycles
 
 3. GENERAL ANNOTATION  GUIDLINES
 

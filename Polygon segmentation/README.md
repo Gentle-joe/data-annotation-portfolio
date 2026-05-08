@@ -1,4 +1,4 @@
-# Data Annotation Portfolio — Gentle Joe
+# Data Annotation Portfolio — Nwachukwu Joachim
 
 ## About Me
 I am a Data Annotation Specialist with hands-on experience in image 
@@ -26,6 +26,8 @@ annotation using industry-standard tools and formats.
 - **Dataset:** 17 images (cars, buiding, animal)
 - **Tool:** Label Studio
 - **Formats:** COCO JSON, YOLO
+- 📁 [View Project](./Polygon segmentation/)
+
 
 ## Contact
 - GitHub: [gentle-joe](https://github.com/gentle-joe)
